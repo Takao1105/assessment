@@ -143,6 +143,7 @@ function test() {
 /**
   //同じ名前なら同じ結果が出力されるテスト
   console.assert(assessment('太郎') = assessment('太郎'))
+ */
 }
-*/
+
 test()
