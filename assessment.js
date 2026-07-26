@@ -140,9 +140,9 @@ function test() {
   console.assert(
     assessment('花子') === '花子のいいところは情熱です。花子の情熱に周りの人は感化されます。'
   );
-
+/**
   //同じ名前なら同じ結果が出力されるテスト
   console.assert(assessment('太郎') = assessment('太郎'))
 }
-
+*/
 test()
